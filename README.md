@@ -93,7 +93,7 @@ settings = {
 * `hyperextensible`: If false, pane may not be slide past the minPosition and maxPosition
 * `resistance`: The cooeficcient used to slow sliding when user has passed max or min threshold
 * `flickThreshold`: Number of pixels the user needs to swiftly travel to activate a "flick" open
-* `transitionSpeed`: The speed at which the pane slides open or closed
+* `transitionSpeed`: The duration for the slide animation
 * `easing`: The CSS3 Easing method you want to use for transitions
 * `maxPosition`: Maximum number of pixels the pane may be slid to the right
 * `minPosition`: Maximum number of pixels the pane may be slid to the left
